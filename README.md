@@ -1,8 +1,25 @@
-# React + Vite
+# Upwork Test
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+task involves accurately recreating a component based on the provided design from Figma, ensuring it mirrors the original design's aesthetics and functionality as closely as possible.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React
+
+## Installation
+
+Install upwork-test with npm
+
+```bash
+  git clone https://github.com/yyassire/upwork-test.git
+  cd upwork-test
+  npm run dev
+```
+
+## Demo
+
+https://upwork-test-psi.vercel.app/
+
+## Authors
+
+- [@Yassire Yaguibou](https://github.com/yyassire/)
