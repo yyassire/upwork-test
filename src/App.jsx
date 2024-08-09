@@ -3,7 +3,6 @@ import { ToastContainer, toast } from "react-toastify";
 import PageComponent from "./components/PageComponent";
 import "react-toastify/dist/ReactToastify.css";
 import { crudeData } from "./utils/customData";
-import { FaCheck } from "react-icons/fa";
 function App() {
   const [data, setData] = useState(crudeData);
   const [allChecked, setAllChecked] = useState(false);

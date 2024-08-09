@@ -80,6 +80,7 @@
   outline: none;
   height: 40px;
   transition: all 100ms ease-in-out;
+  margin-top: 8px;
   /*  */
 }
 .custom-btn:active {
