@@ -14,7 +14,6 @@ Install upwork-test with npm
   git clone https://github.com/yyassire/upwork-test.git
   cd upwork-test
   npm run dev
-  for text
 ```
 
 ## Demo
